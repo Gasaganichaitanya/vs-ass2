@@ -1,0 +1,7 @@
+D:\mphasis\assignments\ass2\ConsApp Ass2\ConsApp Ass2\bin\Debug\ConsApp Ass2.exe.config
+D:\mphasis\assignments\ass2\ConsApp Ass2\ConsApp Ass2\bin\Debug\ConsApp Ass2.exe
+D:\mphasis\assignments\ass2\ConsApp Ass2\ConsApp Ass2\bin\Debug\ConsApp Ass2.pdb
+D:\mphasis\assignments\ass2\ConsApp Ass2\ConsApp Ass2\obj\Debug\ConsApp Ass2.csproj.AssemblyReference.cache
+D:\mphasis\assignments\ass2\ConsApp Ass2\ConsApp Ass2\obj\Debug\ConsApp Ass2.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\ass2\ConsApp Ass2\ConsApp Ass2\obj\Debug\ConsApp Ass2.exe
+D:\mphasis\assignments\ass2\ConsApp Ass2\ConsApp Ass2\obj\Debug\ConsApp Ass2.pdb
